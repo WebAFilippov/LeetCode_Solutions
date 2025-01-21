@@ -6,9 +6,10 @@
   "scripts": {
     "561": "node Solved/561(Easy).Array-Partition.js",
     "1669": "node Solved/1669(Medium).Merge-In-Between-Linked-Lists.js",
-    // "1669": "node Unsolved/1669.Merge-In-Between-Linked-Lists.js",
+    "2490": "node Solved/2490(Easy).Circular-Sentence.js",
     "2620": "node Solved/2620(Easy).Counter.js",
     "2621": "node Solved/2621(Easy).Sleep.js",
+    "12": "node Unsolved/12(Medium).Integer-to-Roman.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
